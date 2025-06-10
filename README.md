@@ -3,7 +3,7 @@
 This repository contains a collection of data science and machine learning projects completed as part of the Yandex curriculum. Each project is organized in its own folder and includes a description, datasets, and analysis notebooks.
 
 ## Repository Structure
-
+```
 
 Yandex/
 ├── Employee Turnover/
@@ -90,6 +90,7 @@ Yandex/
 │   └── README.md
 │
 
+```
 ## Projects Overview
 
 ### Employee Turnover
