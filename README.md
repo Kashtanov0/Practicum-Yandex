@@ -4,7 +4,7 @@ This repository contains a collection of data science and machine learning proje
 
 ## Repository Structure
 
-```
+
 Yandex/
 ├── Employee Turnover/
 │   ├── Employee Turnover.ipynb
