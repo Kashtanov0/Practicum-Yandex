@@ -1,0 +1,8 @@
+scikit-learn==1.3.2
+statsmodels==0.14.0
+pandas==2.1.3
+numpy==1.26.2
+seaborn==0.13.2
+matplotlib==3.8.2
+holidays==0.47
+lightgbm==4.1.0
